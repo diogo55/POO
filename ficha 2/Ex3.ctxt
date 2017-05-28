@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arr\ a
+comment0.target=void\ ordenaArr(int[],\ int)
+comment1.params=n
+comment1.target=int[]\ lerArrayInt(int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3
