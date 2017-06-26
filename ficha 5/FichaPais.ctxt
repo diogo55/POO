@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FichaPais()
+comment1.params=n\ c\ p
+comment1.target=FichaPais(java.lang.String,\ java.lang.String,\ double)
+comment10.params=
+comment10.target=FichaPais\ clone()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=p
+comment2.target=FichaPais(FichaPais)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=java.lang.String\ getCont()
+comment5.params=
+comment5.target=double\ getPop()
+comment6.params=n
+comment6.target=void\ setNome(java.lang.String)
+comment7.params=c
+comment7.target=void\ setCont(java.lang.String)
+comment8.params=p
+comment8.target=void\ setPop(double)
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=12
