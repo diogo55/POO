@@ -4,9 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Fichas de POO
+PURPOSE OF PROJECT: Realização das fichas de POO propostas durante as aulas práticas da unidade curricular Programação Orientada aos Objetos (POO) do 2º ano 2º semestre, da Universidade do Minho
+VERSION or DATE: 2016/2017
+AUTHORS: diogo55
